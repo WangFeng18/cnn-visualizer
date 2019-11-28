@@ -1,0 +1,6 @@
+*.svg
+*.jpg
+*.png
+*.pdf
+*.pth
+/web_platform/node_modules
